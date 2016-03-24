@@ -766,11 +766,11 @@ li.current-page a {
     font-size: 22px;
     width: 100%;
     color: #ECF0F1 !important;
-    margin-left: 0 !important;
+    margin-left: -10px !important;
     line-height: 59px;
     display: block;
-    height: 55px;
-    margin: 0;
+    height: 100px;
+    margin: -20px;
     padding-left: 10px;
 }
 
